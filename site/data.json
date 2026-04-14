@@ -1997,6 +1997,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18063715584",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 21,
+      "name": "Night HIIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18095514870",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3690,6 +3699,17 @@
       }
     },
     "2026": {
+      "HighIntensityIntervalTraining": {
+        "2026-04-13": {
+          "activity_ids": [
+            "18095514870"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 674.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -3905,7 +3925,7 @@
       }
     }
   },
-  "generated_at": "2026-04-13T16:20:09.419961+00:00",
+  "generated_at": "2026-04-14T16:16:22.763314+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84082695",
   "repo": "rgpinel/git-sweaty",
@@ -3915,6 +3935,10 @@
     "Elliptical": {
       "accent": "#fb5607",
       "label": "Elliptical"
+    },
+    "HighIntensityIntervalTraining": {
+      "accent": "#9b5de5",
+      "label": "HITT"
     },
     "Hike": {
       "accent": "#d6ff6b",
@@ -3951,6 +3975,7 @@
   },
   "types": [
     "Elliptical",
+    "HighIntensityIntervalTraining",
     "Hike",
     "Ride",
     "Rowing",

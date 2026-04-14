@@ -2884,5 +2884,18 @@
     "start_date_local": "2026-04-11T11:34:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18095514870",
+    "moving_time": 674.0,
+    "name": "Night HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-13T21:14:48Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
