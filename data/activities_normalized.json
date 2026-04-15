@@ -2891,10 +2891,23 @@
     "elevation_gain": 0.0,
     "id": "18095514870",
     "moving_time": 674.0,
-    "name": "Night HIIT",
+    "name": "Google Pushup + Squad Challenge",
     "raw_activity_type": "Workout",
     "raw_type": "HighIntensityIntervalTraining",
     "start_date_local": "2026-04-13T21:14:48Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18110599115",
+    "moving_time": 821.0,
+    "name": "Google Pushup + Squad challenge",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-14T23:21:21Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
   }

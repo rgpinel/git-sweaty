@@ -2001,10 +2001,19 @@
     {
       "date": "2026-04-13",
       "hour": 21,
-      "name": "Night HIIT",
+      "name": "Google Pushup + Squad Challenge",
       "subtype": "HighIntensityIntervalTraining",
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/18095514870",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 23,
+      "name": "Google Pushup + Squad challenge",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18110599115",
       "year": 2026
     }
   ],
@@ -3708,6 +3717,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 674.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18110599115"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 821.0
         }
       },
       "Run": {
@@ -3925,7 +3943,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:16:22.763314+00:00",
+  "generated_at": "2026-04-15T16:11:05.880545+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84082695",
   "repo": "rgpinel/git-sweaty",
