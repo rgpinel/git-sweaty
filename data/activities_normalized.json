@@ -2910,5 +2910,18 @@
     "start_date_local": "2026-04-14T23:21:21Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18124131795",
+    "moving_time": 894.0,
+    "name": "Google pushup + squad challenge",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-15T23:06:25Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
