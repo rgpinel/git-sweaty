@@ -2923,5 +2923,31 @@
     "start_date_local": "2026-04-15T23:06:25Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18137494283",
+    "moving_time": 1029.0,
+    "name": "Night HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-16T23:06:35Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18142707285",
+    "moving_time": 2138.0,
+    "name": "Lunch HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-17T11:22:25Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]

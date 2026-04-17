@@ -2024,6 +2024,24 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/18124131795",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 23,
+      "name": "Night HIIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18137494283",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 11,
+      "name": "Lunch HIIT",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18142707285",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3744,6 +3762,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 894.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18137494283"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1029.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18142707285"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2138.0
         }
       },
       "Run": {
@@ -3961,7 +3997,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:27:11.985381+00:00",
+  "generated_at": "2026-04-17T16:06:23.505201+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84082695",
   "repo": "rgpinel/git-sweaty",
