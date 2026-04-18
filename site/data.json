@@ -2037,7 +2037,7 @@
     {
       "date": "2026-04-17",
       "hour": 11,
-      "name": "Lunch HIIT",
+      "name": "Body condition session",
       "subtype": "HighIntensityIntervalTraining",
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/18142707285",
@@ -3997,7 +3997,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T16:06:23.505201+00:00",
+  "generated_at": "2026-04-18T15:46:35.243861+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84082695",
   "repo": "rgpinel/git-sweaty",
