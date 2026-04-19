@@ -2949,5 +2949,18 @@
     "start_date_local": "2026-04-17T11:22:25Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 6725.4,
+    "elevation_gain": 6.0,
+    "id": "18167821212",
+    "moving_time": 2906.0,
+    "name": "First easy run with Gavin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T09:56:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

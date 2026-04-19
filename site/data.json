@@ -2042,6 +2042,15 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/18142707285",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 9,
+      "name": "First easy run with Gavin",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18167821212",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3946,6 +3955,15 @@
           "distance": 5086.4,
           "elevation_gain": 18.0,
           "moving_time": 1699.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18167821212"
+          ],
+          "count": 1,
+          "distance": 6725.4,
+          "elevation_gain": 6.0,
+          "moving_time": 2906.0
         }
       },
       "WeightTraining": {
@@ -3997,7 +4015,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:46:35.243861+00:00",
+  "generated_at": "2026-04-19T15:47:00.810500+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84082695",
   "repo": "rgpinel/git-sweaty",
