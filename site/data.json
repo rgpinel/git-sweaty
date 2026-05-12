@@ -2060,6 +2060,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18435627205",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 21,
+      "name": "Easy and Rainy Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18468492063",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3982,6 +3991,15 @@
           "distance": 5035.8,
           "elevation_gain": 13.0,
           "moving_time": 1734.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18468492063"
+          ],
+          "count": 1,
+          "distance": 8153.0,
+          "elevation_gain": 17.0,
+          "moving_time": 3013.0
         }
       },
       "WeightTraining": {
@@ -4033,7 +4051,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:28:49.747877+00:00",
+  "generated_at": "2026-05-12T17:19:22.008891+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84082695",
   "repo": "rgpinel/git-sweaty",
