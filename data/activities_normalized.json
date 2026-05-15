@@ -2988,5 +2988,31 @@
     "start_date_local": "2026-05-11T21:15:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 5119.9,
+    "elevation_gain": 13.0,
+    "id": "18507731344",
+    "moving_time": 1914.0,
+    "name": "Evening run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T19:48:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18514501502",
+    "moving_time": 3070.0,
+    "name": "Focking hell HIIT - Maquina de la muerte @ google",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-05-15T11:14:04Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
