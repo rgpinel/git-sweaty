@@ -2114,6 +2114,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18725050968",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18818826716",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 9,
+      "name": "\ud83e\udd47Adidas 10K Paris - 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18819980718",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4082,6 +4100,16 @@
           "distance": 7494.099999999999,
           "elevation_gain": 11.0,
           "moving_time": 2911.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18818826716",
+            "18819980718"
+          ],
+          "count": 2,
+          "distance": 11438.1,
+          "elevation_gain": 66.0,
+          "moving_time": 3892.0
         }
       },
       "WeightTraining": {
@@ -4133,7 +4161,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T16:13:34.298113+00:00",
+  "generated_at": "2026-06-07T16:24:05.684360+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84082695",
   "repo": "rgpinel/git-sweaty",

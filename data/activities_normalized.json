@@ -3053,5 +3053,31 @@
     "start_date_local": "2026-05-31T10:14:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 1273.9,
+    "elevation_gain": 12.0,
+    "id": "18818826716",
+    "moving_time": 552.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T08:50:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 10164.2,
+    "elevation_gain": 54.0,
+    "id": "18819980718",
+    "moving_time": 3340.0,
+    "name": "\ud83e\udd47Adidas 10K Paris - 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:44:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
