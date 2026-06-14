@@ -3079,5 +3079,18 @@
     "start_date_local": "2026-06-07T09:44:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 5569.7,
+    "elevation_gain": 10.0,
+    "id": "18912508197",
+    "moving_time": 2232.0,
+    "name": "Chill Farlek",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T08:55:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
