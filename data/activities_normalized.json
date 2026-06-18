@@ -3099,7 +3099,7 @@
     "elevation_gain": 6.0,
     "id": "18934580331",
     "moving_time": 3002.0,
-    "name": "Night Run",
+    "name": "Road to 50\u2019 | Easy 50\u2019 + 5 progressives",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-15T21:55:33Z",
@@ -3117,6 +3117,19 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-06-16T19:18:55Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 3568.1,
+    "elevation_gain": 8.0,
+    "id": "18967916625",
+    "moving_time": 1202.0,
+    "name": "Road to 50\u2019 | Intervals 20 min",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T09:05:38Z",
+    "type": "Run",
     "year": 2026
   }
 ]
