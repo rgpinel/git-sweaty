@@ -3131,5 +3131,18 @@
     "start_date_local": "2026-06-18T09:05:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 7035.1,
+    "elevation_gain": 6.0,
+    "id": "18992312527",
+    "moving_time": 2773.0,
+    "name": "Road to 50\u2019 | Easy Run with Gavin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T07:59:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
